@@ -19,7 +19,8 @@
 2.test:
 `python test.py --cuda 0 --model 'dnn' --epoch 200 --team_data_type 'reduce' --model_param 'train_dnn_30.pkl'`
 
-
+队伍特征 - team traits
+当前战绩 - like the results of the teams from previous games
 #### Team Representation Network
 
 ![](./images/team.png)
